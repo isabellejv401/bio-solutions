@@ -22,4 +22,4 @@ print("Anagrams") if anagram == True else print("Not anagrams")
 
 # 1b) 6 (2/2)
 
-# 1c) 21 (0/4)
+# 1c) 21 (0/4) - 'stars and bars' combinatorics problem
