@@ -1,17 +1,7 @@
 # British Informatics Olympiad Solutions
 
-This repository contains my solutions and reflections for
-British Informatics Olympiad (BIO) problems.
-
-Goals:
-- Develop strong algorithmic thinking
-- Improve problem decomposition
-- Learn to recognise common patterns
+This repository contains my solutions and reflections for problems.
 
 Structure:
 - papers/: worked solutions by year
-- techniques/: notes on recurring algorithmic ideas
 
-Languages:
-- Python (primary)
-- C++ (planned)
